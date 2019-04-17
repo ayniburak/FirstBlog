@@ -1,3 +1,7 @@
 D:\GitHub\FirstBlog\FirstBlog\FirstBlog\obj\Debug\netcoreapp2.1\FirstBlog.csproj.CoreCompileInputs.cache
 D:\GitHub\FirstBlog\FirstBlog\FirstBlog\obj\Debug\netcoreapp2.1\FirstBlog.AssemblyInfoInputs.cache
 D:\GitHub\FirstBlog\FirstBlog\FirstBlog\obj\Debug\netcoreapp2.1\FirstBlog.AssemblyInfo.cs
+D:\GitHub\FirstBlog\FirstBlog\FirstBlog\obj\Debug\netcoreapp2.1\FirstBlog.csprojAssemblyReference.cache
+D:\GitHub\FirstBlog\FirstBlog\FirstBlog\obj\Debug\netcoreapp2.1\FirstBlog.RazorAssemblyInfo.cache
+D:\GitHub\FirstBlog\FirstBlog\FirstBlog\obj\Debug\netcoreapp2.1\FirstBlog.RazorAssemblyInfo.cs
+D:\GitHub\FirstBlog\FirstBlog\FirstBlog\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
